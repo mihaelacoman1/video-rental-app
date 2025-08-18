@@ -40,6 +40,9 @@ cd video-rental-app
 ## Future Improvements
 
 Persistent data storage (JSON, SQLite, or a small database)
+
 Enhanced customer and rental management (due dates, penalties, reports)
+
 UI improvements (movie posters, search, filters)
+
 Statistics and rental reports
