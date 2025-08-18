@@ -17,6 +17,7 @@ This project provides a simple and intuitive Windows Forms interface to handle t
 ## Tech Stack
 
 -C# (.NET Framework / .NET Core depending on target)
+
 -Windows Forms for the user interface
 - Optional: local data storage (files, XML, or database – depending on code implementation)
 
