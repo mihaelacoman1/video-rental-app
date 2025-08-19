@@ -39,7 +39,7 @@ cd video-rental-app
 
 ## Future Improvements
 
-- Persistent data storage (JSON, SQLite, or a small database)
+ Persistent data storage (JSON, SQLite, or a small database)
   
 Enhanced customer and rental management (due dates, penalties, reports)
 
