@@ -18,8 +18,6 @@ namespace VideoRentalApp
         {
             return $"{Id}. {Client.Nume} -> {Film.Titlu} ({DataInchiriere.ToShortDateString()} - {(DataReturnare.HasValue ? DataReturnare.Value.ToShortDateString() : "nedefinit")})";
         }
-
     }
-
-
 }
+
